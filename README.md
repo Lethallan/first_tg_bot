@@ -1,2 +1,2 @@
 # first_tg_bot
-* very sinple bot
+* very simple bot
